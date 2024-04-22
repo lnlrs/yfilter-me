@@ -1,0 +1,12 @@
+[Adblock Plus 2.0]
+! Title: yFilter Me
+! Expires: 1 days (update frequency)
+
+nagatoromanga.com##.navbar-left.navbar-fixed-top.navbar-default.navbar
+powerlisting.fandom.com##DIV[class="DesktopArticleVideoPlayer__DesktopArticleVideoTopPlaceholder-sc-11673vn-0 fKYQUO"]
+powerlisting.fandom.com##DIV[id="featured-video__player-container"][class="featured-video-player-container"]
+www.deviantart.com##.forced-theme-light.theme-light._2Ee-T._1iiLS._2jTZG._158hZ > .IIlhx
+www.wcofun.tv##IMG[src="https://www.wcostream.org/premiumad4.png"]
+www.ign.com##.header.jsx-897490467
+www.ign.com##SECTION[class="sticky-header jsx-1640122255 wiki-header"]
+www.ign.com##DIV[class="card jsx-652222326 box jsx-3498499587"]
