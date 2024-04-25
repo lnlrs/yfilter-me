@@ -9,3 +9,4 @@ www.deviantart.com##.forced-theme-light.theme-light._2Ee-T._1iiLS._2jTZG._158hZ 
 www.wcofun.tv##IMG[src="https://www.wcostream.org/premiumad4.png"]
 ! 2024-04-25 https://www.ign.com
 www.ign.com##.header.jsx-897490467
+ign.com##.jsx-897490467.header
