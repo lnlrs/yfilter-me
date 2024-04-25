@@ -9,5 +9,3 @@ www.deviantart.com##.forced-theme-light.theme-light._2Ee-T._1iiLS._2jTZG._158hZ 
 www.wcofun.tv##IMG[src="https://www.wcostream.org/premiumad4.png"]
 ign.com##.jsx-897490467.header
 www.ign.com##.header.jsx-897490467
-www.ign.com##SECTION[class="sticky-header jsx-1640122255 wiki-header"]
-www.ign.com##DIV[class="card jsx-652222326 box jsx-3498499587"]
