@@ -9,7 +9,7 @@ fandom.com##.wikia-bar-anon.wikia-bar
 ! fandom.com##DIV[class="wikia-bar wikia-bar-anon"]
 ! fandom.com##ASIDE[class="page__right-rail"]
 powerlisting.fandom.com##DIV[class="DesktopArticleVideoPlayer__DesktopArticleVideoTopPlaceholder-sc-11673vn-0 fKYQUO"]
-powerlisting.fandom.com##DIV[id="featured-video__player-container"][class="featured-video-player-container"]
+!powerlisting.fandom.com##DIV[id="featured-video__player-container"][class="featured-video-player-container"]
 www.deviantart.com##.forced-theme-light.theme-light._2Ee-T._1iiLS._2jTZG._158hZ > .IIlhx
 www.wcofun.tv##IMG[src="https://www.wcostream.org/premiumad4.png"]
 ign.com##.jsx-897490467.header
