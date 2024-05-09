@@ -4,8 +4,10 @@
 
 nagatoromanga.com##.navbar-left.navbar-fixed-top.navbar-default.navbar
 fandom.com##DIV[id="featured-video__player-container"][class="featured-video-player-container"]
-!fandom.com##DIV[class="wikia-bar wikia-bar-anon"]
-!fandom.com##ASIDE[class="page__right-rail"]
+fandom.com##.wikia-bar-anon.wikia-bar
+!fandom.com##.WikiaRail.right-rail-wrapper
+! fandom.com##DIV[class="wikia-bar wikia-bar-anon"]
+! fandom.com##ASIDE[class="page__right-rail"]
 powerlisting.fandom.com##DIV[class="DesktopArticleVideoPlayer__DesktopArticleVideoTopPlaceholder-sc-11673vn-0 fKYQUO"]
 powerlisting.fandom.com##DIV[id="featured-video__player-container"][class="featured-video-player-container"]
 www.deviantart.com##.forced-theme-light.theme-light._2Ee-T._1iiLS._2jTZG._158hZ > .IIlhx
