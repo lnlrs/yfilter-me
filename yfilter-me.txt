@@ -3,6 +3,7 @@
 ! Expires: 1 days (update frequency)
 
 nagatoromanga.com##.navbar-left.navbar-fixed-top.navbar-default.navbar
+||fandom.com##DIV[id="featured-video__player-container"][class="featured-video-player-container"]
 powerlisting.fandom.com##DIV[class="DesktopArticleVideoPlayer__DesktopArticleVideoTopPlaceholder-sc-11673vn-0 fKYQUO"]
 powerlisting.fandom.com##DIV[id="featured-video__player-container"][class="featured-video-player-container"]
 www.deviantart.com##.forced-theme-light.theme-light._2Ee-T._1iiLS._2jTZG._158hZ > .IIlhx
