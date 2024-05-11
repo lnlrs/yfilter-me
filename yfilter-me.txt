@@ -6,7 +6,7 @@ nagatoromanga.com##.navbar-left.navbar-fixed-top.navbar-default.navbar
 fandom.com##DIV[id="featured-video__player-container"][class="featured-video-player-container"]
 fandom.com##.wikia-bar-anon.wikia-bar
 fandom.com##.page__right-rail
-www.ign.com##.header.jsx-897490467
+www.ign.com##.header
 www.deviantart.com##.forced-theme-light.theme-light._2Ee-T._1iiLS._2jTZG._158hZ > .IIlhx
 www.tvtime.com##.fc-dialog-container
 www.wcofun.tv##IMG[src="https://www.wcostream.org/premiumad4.png"]
