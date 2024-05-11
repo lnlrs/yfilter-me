@@ -7,6 +7,8 @@ fandom.com##DIV[id="featured-video__player-container"][class="featured-video-pla
 fandom.com##.wikia-bar-anon.wikia-bar
 fandom.com##.page__right-rail
 www.deviantart.com##.forced-theme-light.theme-light._2Ee-T._1iiLS._2jTZG._158hZ > .IIlhx
+www.tvtime.com##.fc-dialog.fc-ab-dialog
+www.tvtime.com##.fc-dialog-container > .fc-dialog-overlay
 www.wcofun.tv##IMG[src="https://www.wcostream.org/premiumad4.png"]
 ign.com##.jsx-897490467.header
 ign.com##.card.jsx-652222326.box.jsx-3498499587
